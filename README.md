@@ -3,8 +3,6 @@
 
 [![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomastrainiac&show_icons=true&count_private=true&border_radius=5&bg_color=0f1216&border_color=2a2f35)](https://github.com/Thomastrainiac)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomastrainiac)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Thomastrainiac/Thomastrainiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
