@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Currently work for Bulk Games Studios as a Senior Developer
 
-[![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomastrainiac&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomastrainiac&show_icons=true&count_private=true&border_radius=1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Thomastrainiac/Thomastrainiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
