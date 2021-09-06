@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Currently work for Bulk Games Studios as a Senior Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomastrainiac)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasTrainiac)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Thomastrainiac/Thomastrainiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
