@@ -1,9 +1,7 @@
 ### Hi there 👋
-## Currently work for Bulk Games Studios as a Senior Developer
+## Morey's Pier's Beach Front & Waterfront IT Department
 
 [![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomastrainiac&show_icons=true&count_private=true&border_radius=5&bg_color=0f1216&border_color=2a2f35)](https://github.com/Thomastrainiac)
-
-[![Aarons's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Thomastrainiac&show_icons=true&count_private=true&border_radius=5&bg_color=0f1216&border_color=2a2f35)](https://github.com/Thomastrainiac)
 
 <!--
 **Thomastrainiac/Thomastrainiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
